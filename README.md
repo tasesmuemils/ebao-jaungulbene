@@ -1,2 +1,2 @@
 # ebao-jaungulbene
-JANDZE!
+JANDZE DEVELOPMENT!
