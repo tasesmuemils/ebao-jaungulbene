@@ -1,0 +1,26 @@
+* {
+  //border: solid 1px red; /*use this to check border*/
+}
+
+body, html {
+  height: 100%;
+  margin: 0;
+  background-image: url("../img/angry-dad-meme.jpg");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.main-form {
+  padding: 0px 10px;
+}
+
+form {
+  background-color: #5F726C;
+  border-radius: 20px;
+}
+
+input {
+  border-radius: 5px;
+}
