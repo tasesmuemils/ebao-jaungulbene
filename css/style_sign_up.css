@@ -16,11 +16,20 @@ body, html {
   padding: 0px 10px;
 }
 
-form {
+.sign-up-form {
   background-color: #5F726C;
   border-radius: 20px;
+  padding: 10px;
 }
 
+label {
+  font-size: 15px;
+  font-weight: bold;
+  color: white;
+}
+
+
 input {
-  border-radius: 5px;
+  border-radius: 7px;
+  background-color: #d0deff;
 }
